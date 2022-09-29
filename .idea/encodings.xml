@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/chpt/HashDemoTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt/ObjectEqualsTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt/ScannerInput.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_6.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_7.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_8.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/MainPackage/Management.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Cartheater.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Computer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Desktop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Hometheater.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Laptop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Software.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/ProductPackage/Stereo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/SwingPackage/AddListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt10/Ex10_9/SwingPackage/DisplayListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt2/Ex2_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt9/Ex9_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/chpt9/Ex9_2.java" charset="GBK" />
+  </component>
+</project>
